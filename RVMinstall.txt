@@ -1,3 +1,5 @@
 Basic command to install RVM
 1
 sudo apt-get install build-essential git-core  (To check the dependency)
+2) sudo apt-get install curl (need to install RVM (Ruby Version Manager) using curl.)
+3)
